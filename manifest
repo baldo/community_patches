@@ -3,3 +3,4 @@
 00003-disable-menu-entries-in-recovery.patch
 00004-increase-default-maximum-password-length.patch
 00005-set-privacy-friendly-dns-default.patch
+00006-disable-agps.patch
